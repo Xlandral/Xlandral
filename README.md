@@ -1,5 +1,3 @@
-# About-Me
-
 # Hello and welcome, I'm Xlandral/Connor
 
 ### WhoAmI
