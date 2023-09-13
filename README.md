@@ -2,9 +2,9 @@
 
 ### WhoAmI
 
-- 🔭 I’m currently working on: Personal website and Normal Work
+- 🔭 I’m currently working on: Financial QT Application
 - ⚡ Currently employed at Lake Michigan Credit Union
-- 🌱 I’m currently learning: PHP and Voxel Based Art
+- 🌱 I’m currently learning: .NET and C#
 - 👯 I’m looking to collaborate on: Anything web developement based
 - 🎓 Undergrad: Computer Programming Degree at GRCC: 4.0 GPA
 - 😄 Pronouns: He/Him
