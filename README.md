@@ -6,7 +6,7 @@
 - ⚡ Currently employed at Lake Michigan Credit Union
 - 🌱 I’m currently learning: .NET and C#
 - 👯 I’m looking to collaborate on: Anything web developement based
-- 🎓 Undergrad: Computer Programming Degree at GRCC: 4.0 GPA
+- 🎓 Computer Programming Degree at GRCC: 4.0 GPA
 - 😄 Pronouns: He/Him
 - 💻 Website: In developement
 
